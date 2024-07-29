@@ -1,4 +1,23 @@
-## Hi there 👋
+# Bienvenidos👋
+Estudiante de Ingeniería en Computación de la Universidad Espíritu Santo.
+
+Apasionado de las innovaciones tecnológicas, la inteligencia artificial y temas de economía.
+
+| **Area** | Tool |Tool | Tool |
+| ----------- | ----------- |----------- | ----------- |
+| **Front End** | HTML |CSS | JavaScript |
+|  **Back End** | Python |Java | PHP |
+| **Frameworks** | Angular | Express.js | Laravel |
+|  **Databases** | MySQL |PostgreSQL | SQLserver |
+
+- 🔭 I’m currently working on web development projects
+- 🌱 I’m currently learning web development
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!--
 **leolopezv/leolopezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
