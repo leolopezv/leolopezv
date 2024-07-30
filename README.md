@@ -1,4 +1,7 @@
 # Bienvenidos👋
+
+<!--
+
 Estudiante de Ingeniería en Computación de la Universidad Espíritu Santo.
 
 Apasionado de las innovaciones tecnológicas, la inteligencia artificial y temas de economía.
@@ -19,7 +22,6 @@ Apasionado de las innovaciones tecnológicas, la inteligencia artificial y temas
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!--
 **leolopezv/leolopezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
