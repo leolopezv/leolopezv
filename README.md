@@ -4,7 +4,7 @@
     <td>
       <h1 style="margin-bottom: 5px;">LEONARDO LÓPEZ VALLEJO</h1>
       <p>📧 <a href="mailto:leonardolopezvallejo1@gmail.com">leonardolopezvallejo1@gmail.com</a></p>
-      <p>🏠 <a href="https://www.linkedin.com/in/leonardolopezvallejo">www.linkedin.com/in/leonardolopezvallejo</a></p>
+      <p>💼 <a href="https://www.linkedin.com/in/leonardolopezvallejo">www.linkedin.com/in/leonardolopezvallejo</a></p>
     </td>
   </tr>
 </table>
@@ -12,9 +12,9 @@
 ---
 
 ### SOBRE MÍ
-Estudiante de Ingeniería en Computación de la Universidad Espíritu Santo.
-Emajador junior del Space Center Houston de la NASA y Presidente del Club de Emprendimiento UEES.
-Apasionado de las innovaciones tecnológicas, la inteligencia artificial y temas de economía.
+- 💻 Estudiante de Ingeniería en Computación de la Universidad Espíritu Santo.
+- 🧑‍🚀 Embajador junior del Space Center Houston de la NASA y Presidente del Club de Emprendimiento UEES.
+- 🚀 Apasionado de las innovaciones tecnológicas, la inteligencia artificial y temas de economía.
 
 ---
 <!--
