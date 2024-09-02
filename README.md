@@ -15,8 +15,6 @@
 - 💻 Estudiante de Ingeniería en Computación de la Universidad Espíritu Santo.
 - 🧑‍🚀 Embajador junior del Space Center Houston de la NASA y Presidente del Club de Emprendimiento UEES.
 - 🚀 Apasionado de las innovaciones tecnológicas, la inteligencia artificial y temas de economía.
-
----
 <!--
 
 Estudiante de Ingeniería en Computación de la Universidad Espíritu Santo.
