@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="https://media.licdn.com/dms/image/v2/D4E03AQHgX6px0dh7qg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704417746520?e=1730937600&v=beta&t=O0sip-e4Sz9z4aRpoiAsFzyQjGVBAeLfQriK5xzWw8g" alt="Profile Image" width="150"/></td>
+    <td><img src="https://media.licdn.com/dms/image/v2/D4E03AQHgX6px0dh7qg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1704417746520?e=2147483647&v=beta&t=aqz2OKDHqfwW9LfOu6MjUp8joVdbcLCFyBkCtHUP1Kw" alt="Profile Image" width="150"/></td>
     <td>
       <h1 style="margin-bottom: 5px;">LEONARDO LÓPEZ VALLEJO</h1>
       <p>📧 <a href="mailto:leonardolopezvallejo1@gmail.com">leonardolopezvallejo1@gmail.com</a></p>
